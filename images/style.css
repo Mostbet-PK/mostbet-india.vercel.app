@@ -963,3 +963,6 @@ table tbody tr td:last-child { border-radius: 0 var(--r-sm) var(--r-sm) 0; }
   .footer { padding: 40px 16px 20px; }
   .catfish-left span { display: none; }
 }
+.footer-partner{text-align:center;padding:12px 0;}
+.footer-partner a{color:#87c209;font-size:13px;font-weight:600;text-decoration:none;opacity:.85;transition:opacity .2s;}
+.footer-partner a:hover{opacity:1;text-decoration:underline;}
